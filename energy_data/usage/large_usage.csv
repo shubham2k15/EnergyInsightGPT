@@ -1,0 +1,31 @@
+location,energy_usage_kWh,energy_source,appliance,monthly_bill
+Living Room,150,electricity,Lighting,$30
+Living Room,250,electricity,HVAC,$55
+Bedroom 1,200,electricity,HVAC,$48
+Bedroom 2,180,electricity,HVAC,$45
+Kitchen,220,electricity,Appliances,$60
+Kitchen,100,electricity,Lighting,$22
+Office,400,electricity,HVAC,$90
+Office,150,electricity,Lighting,$35
+Garage,120,electricity,Other,$20
+Bathroom,70,electricity,Other,$12
+Dining Area,160,electricity,Lighting,$32
+Outdoor,110,electricity,Lighting,$25
+Server Room,600,electricity,Equipment,$140
+Laundry,190,electricity,Appliances,$50
+Gym Room,230,electricity,HVAC,$52
+Guest Room,170,electricity,HVAC,$40
+Hallway,80,electricity,Lighting,$15
+Storage,60,electricity,Other,$10
+Workshop,300,electricity,Equipment,$75
+Terrace,130,electricity,Lighting,$28
+Floor 1,350,electricity,HVAC,$85
+Floor 2,420,electricity,HVAC,$100
+Floor 3,390,electricity,HVAC,$95
+Conference Room A,260,electricity,HVAC,$70
+Conference Room B,240,electricity,HVAC,$68
+Data Center,950,electricity,Equipment,$260
+Cafeteria,380,electricity,Appliances,$110
+Lobby,200,electricity,Lighting,$45
+Parking,140,electricity,Lighting,$30
+IT Room,650,electricity,Equipment,$180

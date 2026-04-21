@@ -1,0 +1,20 @@
+The energy audit indicates significant inefficiencies in HVAC systems across multiple areas, with consumption levels exceeding expected benchmarks by approximately 30%.
+
+Cooling systems are running continuously during non-operational hours, indicating poor scheduling and lack of automation.
+
+Lighting infrastructure relies heavily on outdated fluorescent technology, leading to higher electricity usage compared to LED alternatives.
+
+The building suffers from poor insulation, especially in conference rooms and upper floors, resulting in energy loss and increased cooling demand.
+
+The data center is the largest contributor to energy consumption, accounting for nearly 40% of total usage due to continuous equipment operation and inefficient cooling mechanisms.
+
+There is heavy dependence on grid electricity, which increases the carbon footprint and operational costs.
+
+Opportunities for improvement include:
+- Implementing smart thermostats for HVAC optimization
+- Retrofitting lighting systems with LED fixtures
+- Improving insulation and sealing air leaks
+- Installing rooftop solar panels to reduce grid dependency
+- Optimizing data center cooling efficiency
+
+Adopting these measures could reduce total energy consumption by 20–30% and significantly lower emissions.

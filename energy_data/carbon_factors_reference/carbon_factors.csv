@@ -1,0 +1,8 @@
+energy_source,emission_factor
+electricity,0.82
+solar,0.05
+wind,0.02
+diesel,2.68
+petrol,2.31
+coal,2.4
+biomass,0.18

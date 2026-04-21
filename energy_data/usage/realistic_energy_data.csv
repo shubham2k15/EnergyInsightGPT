@@ -1,0 +1,51 @@
+date,location,energy_source,energy_usage_kWh
+2025-01-01,Data Center,grid,2440
+2025-01-04,Retail Store A,grid,777
+2025-01-07,Data Center,solar,2756
+2025-01-10,R&D Lab,grid,1416
+2025-01-13,Head Office,grid,1111
+2025-01-16,Retail Store A,grid,413
+2025-01-19,R&D Lab,grid,1532
+2025-01-22,R&D Lab,grid,1429
+2025-01-25,Logistics Hub,grid,1245
+2025-01-28,Head Office,solar,1081
+2025-01-31,Branch Office 2,grid,429
+2025-02-03,Retail Store A,diesel,572
+2025-02-06,Data Center,grid,2349
+2025-02-09,Branch Office 1,wind,609
+2025-02-12,Retail Store B,wind,823
+2025-02-15,Manufacturing Unit,grid,2098
+2025-02-18,Branch Office 2,grid,500
+2025-02-21,Logistics Hub,wind,985
+2025-02-24,Logistics Hub,grid,835
+2025-02-27,Head Office,solar,1395
+2025-03-02,Retail Store B,diesel,887
+2025-03-05,Retail Store A,wind,594
+2025-03-08,Retail Store B,grid,877
+2025-03-11,Branch Office 1,grid,481
+2025-03-14,Retail Store A,solar,759
+2025-03-17,Data Center,solar,2387
+2025-03-20,R&D Lab,solar,1283
+2025-03-23,Manufacturing Unit,grid,2073
+2025-03-26,R&D Lab,grid,1366
+2025-03-29,Head Office,grid,1016
+2025-04-01,Branch Office 1,grid,333
+2025-04-04,Retail Store A,diesel,690
+2025-04-07,Branch Office 1,grid,555
+2025-04-10,Branch Office 2,wind,679
+2025-04-13,Manufacturing Unit,grid,1671
+2025-04-16,Retail Store A,solar,675
+2025-04-19,Retail Store B,solar,669
+2025-04-22,Logistics Hub,grid,912
+2025-04-25,Warehouse,grid,746
+2025-04-28,Head Office,wind,1078
+2025-05-01,Warehouse,solar,916
+2025-05-04,Logistics Hub,grid,995
+2025-05-07,Logistics Hub,diesel,1070
+2025-05-10,Retail Store B,diesel,890
+2025-05-13,Head Office,solar,1058
+2025-05-16,R&D Lab,solar,1593
+2025-05-19,Branch Office 1,grid,522
+2025-05-22,Warehouse,grid,1188
+2025-05-25,Retail Store B,diesel,840
+2025-05-28,Warehouse,grid,754
