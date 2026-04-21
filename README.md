@@ -220,32 +220,9 @@ streamlit run app.py
 
 ---
 
-## 🚧 Future Enhancements
 
-* Multi-file RAG support
-* Real-time IoT energy integration
-* Advanced forecasting (ML models)
-* Dashboard export (PDF/Excel)
-* Role-based enterprise version
 
----
 
-## 🤝 Contributing
-
-Contributions are welcome!
-Feel free to fork, improve, and raise a PR.
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
-## 👨‍💻 Author
-
-**Shubham Bhattacharya**
 Senior RPA Developer | AI & Automation Enthusiast
 
 * Passionate about **Hyperautomation + Generative AI**
